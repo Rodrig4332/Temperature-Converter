@@ -16,21 +16,19 @@ body {
     height: 100vh;
 }
 
-h1 {
-    font-size: 30px;
-    text-align: center;
-}
-
 .heading {
-    color: darkblue;
-    font-size: 50px;
     display: flex;
     justify-content: center;
-    text-align: center;
+    align-items: center;
     position: absolute;
-    top: 50px;
-    flex-direction: column;
-    margin: 0;
+    top: 80px;
+    text-align: center;
+    font-size: 23px;
+}
+
+h2 {
+    font-size: 25px;
+    text-align: center;
 }
 
 .container {
